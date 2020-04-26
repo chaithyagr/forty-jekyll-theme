@@ -1,33 +1,32 @@
 # site settings
-title: Forty
-subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
+email: chaithyagr@gmail.com
+description: Research Engineer<br /> CEA Paris-Saclay
+baseurl: "/forty-jekyll-theme" 
 url: # the base hostname & protocol for your site
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+street_address: 2, Avenue des Violettes
+city: Bures-sur-yvette
+state: Ile-de-france
+zip_code: 91440
+country: France
+
 
 # homepage tiles
-tiles-source: pages # accepts "posts" or "pages"
+tiles-source: pages
 tiles-count: 6
 
 # social settings
 500px_url:
 facebook_url:
-github_url:
-gitlab_url: https://gitlab.com/u/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
-instagram_url: https://instagram.com
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+github_url: https://github.com/chaithyagr
+gitlab_url: https://gitlab.com/u/chaithyagr
+googlesch_url: https://scholar.google.co.in/citations?user=heX0yHcAAAAJ&hl=en
+researchgate_url: https://www.researchgate.net/profile/Chaithya_G_R
+instagram_url: https://instagram.com/chaithya_gr
+linkedin_url: https://www.linkedin.com/in/chaithya-gr-b08aab44/
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+twitter_url: 
 
 # build settings
 markdown: kramdown
